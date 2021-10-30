@@ -1,4 +1,4 @@
-# To-Do List    <img src="pencil.jpg" width=100px>
+# To-Do List    <img src="pencil.jpg" height=40px, width=100px>
 
 **Description:** A functional To-Do list. 
 
