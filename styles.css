@@ -45,6 +45,13 @@ code {
   justify-content: space-between;
 }
 
+.todo:hover {
+  cursor: pointer;
+  opacity: 0.75;
+  background-color: whitesmoke;
+  color: darkcyan;
+  }
+
 .input{
   width: 100%;
   box-sizing: border-box;
@@ -55,3 +62,5 @@ code {
   height: 2.25em;
   font-size: 24px;
 }
+
+
